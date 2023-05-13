@@ -11,7 +11,7 @@ class Integration(object):
     
     def func(self,x:float)->float:
         """
-            function that returns the function value for a given argument
+            function that returns the function value for a given argument nothing
         """
         self._function = x**2 # here place your function
 
